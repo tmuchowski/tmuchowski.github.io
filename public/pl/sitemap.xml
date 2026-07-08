@@ -2,109 +2,109 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/pl/kontakt/</loc>
+    <loc>https://tmuchowski.github.io/pl/kontakt/</loc>
     <lastmod>2026-07-08T16:40:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pl/</loc>
+    <loc>https://tmuchowski.github.io/pl/</loc>
     <lastmod>2026-07-08T16:40:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="http://localhost:1313/pl/"
+                href="https://tmuchowski.github.io/pl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://tmuchowski.github.io/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pl/analizy/kogeneracja-sa/</loc>
+    <loc>https://tmuchowski.github.io/pl/analizy/kogeneracja-sa/</loc>
     <lastmod>2026-07-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="http://localhost:1313/pl/analizy/kogeneracja-sa/"
+                href="https://tmuchowski.github.io/pl/analizy/kogeneracja-sa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/analizy/kogeneracja-sa/"
+                href="https://tmuchowski.github.io/analizy/kogeneracja-sa/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pl/analizy/</loc>
+    <loc>https://tmuchowski.github.io/pl/analizy/</loc>
     <lastmod>2026-07-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="http://localhost:1313/pl/analizy/"
+                href="https://tmuchowski.github.io/pl/analizy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/analizy/"
+                href="https://tmuchowski.github.io/analizy/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pl/komentarze/ai/</loc>
+    <loc>https://tmuchowski.github.io/pl/komentarze/ai/</loc>
     <lastmod>2026-07-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="http://localhost:1313/pl/komentarze/ai/"
+                href="https://tmuchowski.github.io/pl/komentarze/ai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/komentarze/ai/"
+                href="https://tmuchowski.github.io/komentarze/ai/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pl/komentarze/</loc>
+    <loc>https://tmuchowski.github.io/pl/komentarze/</loc>
     <lastmod>2026-07-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="http://localhost:1313/pl/komentarze/"
+                href="https://tmuchowski.github.io/pl/komentarze/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/komentarze/"
+                href="https://tmuchowski.github.io/komentarze/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pl/about/</loc>
+    <loc>https://tmuchowski.github.io/pl/about/</loc>
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="http://localhost:1313/pl/about/"
+                href="https://tmuchowski.github.io/pl/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/about/"
+                href="https://tmuchowski.github.io/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pl/categories/</loc>
+    <loc>https://tmuchowski.github.io/pl/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="http://localhost:1313/pl/categories/"
+                href="https://tmuchowski.github.io/pl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://tmuchowski.github.io/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pl/tags/</loc>
+    <loc>https://tmuchowski.github.io/pl/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="http://localhost:1313/pl/tags/"
+                href="https://tmuchowski.github.io/pl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://tmuchowski.github.io/tags/"
                 />
   </url>
 </urlset>
