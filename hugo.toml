@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://tmuchowski.github.io/'
 title = 'Tomasz Muchowski'
 theme = 'PaperMod'
 
