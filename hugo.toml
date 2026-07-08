@@ -2,6 +2,7 @@ baseURL = 'https://tmuchowski.github.io/'
 title = 'Tomasz Muchowski'
 theme = 'PaperMod'
 relativeURLs = true
+canonifyURLs = true
 
 [params]
   defaultTheme = "light"
