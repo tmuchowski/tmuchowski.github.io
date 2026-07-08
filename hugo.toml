@@ -1,0 +1,56 @@
+baseURL = 'http://localhost:1313/'
+title = 'Tomasz Muchowski'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = "light"
+  disableThemeToggle = true # Opcjonalne: wyłącza przycisk zmiany trybu nocnego
+
+# Konfiguracja języków i menu
+[languages]
+  [languages.pl]
+    languageName = "Polski"
+    languageCode = "pl"
+    weight = 1
+    [[languages.pl.menu.main]]
+      name = "O mnie"
+      url = "/about/"
+      weight = 1
+    [[languages.pl.menu.main]]
+      name = "Analizy"
+      url = "/analizy/"
+      weight = 2
+    [[languages.pl.menu.main]]
+      name = "Komentarze"
+      url = "/komentarze/"
+      weight = 3
+    [[languages.pl.menu.main]]
+      name = "Kontakt"
+      url = "/kontakt/"
+      weight = 4
+
+  [languages.en]
+    languageName = "English"
+    languageCode = "en"
+    weight = 2
+    [[languages.en.menu.main]]
+      name = "About"
+      url = "/about/"
+      weight = 1
+    [[languages.en.menu.main]]
+      name = "Analyses"
+      url = "/analizy/"
+      weight = 2
+    [[languages.en.menu.main]]
+      name = "Comments"
+      url = "/komentarze/"
+      weight = 3
+    [[languages.en.menu.main]]
+      name = "Contact"
+      url = "/contact/"
+      weight = 4
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
