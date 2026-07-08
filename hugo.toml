@@ -1,4 +1,4 @@
-baseURL = 'https://tmuchowski.github.io/'
+baseURL = 'https://www.muchowski-advisory.pl/'
 title = 'Tomasz Muchowski'
 theme = 'PaperMod'
 relativeURLs = true
