@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Komentarze on Tomasz Muchowski Advisory</title>
-    <link>http://localhost:1313/komentarze/</link>
+    <link>https://www.muchowski-advisory.pl/komentarze/</link>
     <description>Recent content in Komentarze on Tomasz Muchowski Advisory</description>
     <generator>Hugo</generator>
     <language>pl</language>
     <lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/komentarze/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.muchowski-advisory.pl/komentarze/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Czy chińskie AI właśnie przebija amerykańską bańkę technologiczną? 🇨🇳🇺🇸</title>
-      <link>http://localhost:1313/komentarze/ai/</link>
+      <link>https://www.muchowski-advisory.pl/komentarze/ai/</link>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/komentarze/ai/</guid>
+      <guid>https://www.muchowski-advisory.pl/komentarze/ai/</guid>
       <description>&lt;p&gt;Podczas gdy Dolina Krzemowa wydaje miliardy na rozwój coraz potężniejszych modeli, Chiny znalazły sposób, by oferować 90% tej samej jakości za ułamek ceny. Jak to możliwe?
 Oto kluczowe wnioski z analizy obecnej sytuacji na rynku AI zamieszczonej na &lt;a href=&#34;https://lnkd.in/dEc2j9wG&#34;&gt;https://lnkd.in/dEc2j9wG&lt;/a&gt; :&lt;/p&gt;
 &lt;p&gt;🚀 Ekstremalna różnica w kosztach USA wydają na budowę AI około 1 biliona dolarów rocznie (3% PKB), podczas gdy wydatki Chin to zaledwie ułamek tej kwoty – ok. 102-123 mld dolarów (0,6% PKB)*. Efekt? To samo zadanie programistyczne, które w amerykańskim Claude Opus kosztuje 2,33 USD, w chińskim modelu GLM kosztuje zaledwie 0,31 USD – to 7,5 raza taniej!.&lt;/p&gt;</description>

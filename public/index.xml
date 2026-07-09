@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tomasz Muchowski Advisory</title>
-    <link>http://localhost:1313/</link>
+    <link>https://www.muchowski-advisory.pl/</link>
     <description>Recent content on Tomasz Muchowski Advisory</description>
     <generator>Hugo</generator>
     <language>pl</language>
     <lastBuildDate>Wed, 08 Jul 2026 16:40:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.muchowski-advisory.pl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kontakt</title>
-      <link>http://localhost:1313/kontakt/</link>
+      <link>https://www.muchowski-advisory.pl/kontakt/</link>
       <pubDate>Wed, 08 Jul 2026 16:40:00 +0200</pubDate>
-      <guid>http://localhost:1313/kontakt/</guid>
+      <guid>https://www.muchowski-advisory.pl/kontakt/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Tomasz Muchowski Advisory&lt;/strong&gt;
 al. Solidarności 68/121
 00-240 Warszawa, Polska&lt;/p&gt;
@@ -29,25 +29,25 @@ al. Solidarności 68/121
     </item>
     <item>
       <title>Analiza spółki Kogeneracja S.A.</title>
-      <link>http://localhost:1313/analizy/kogeneracja-sa/</link>
+      <link>https://www.muchowski-advisory.pl/analizy/kogeneracja-sa/</link>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/analizy/kogeneracja-sa/</guid>
+      <guid>https://www.muchowski-advisory.pl/analizy/kogeneracja-sa/</guid>
       <description>&lt;p&gt;Tutaj wkrótce pojawi się analiza Kogeneracja S.A.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Czy chińskie AI właśnie przebija amerykańską bańkę technologiczną? 🇨🇳🇺🇸</title>
-      <link>http://localhost:1313/komentarze/ai/</link>
+      <link>https://www.muchowski-advisory.pl/komentarze/ai/</link>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/komentarze/ai/</guid>
+      <guid>https://www.muchowski-advisory.pl/komentarze/ai/</guid>
       <description>&lt;p&gt;Podczas gdy Dolina Krzemowa wydaje miliardy na rozwój coraz potężniejszych modeli, Chiny znalazły sposób, by oferować 90% tej samej jakości za ułamek ceny. Jak to możliwe?
 Oto kluczowe wnioski z analizy obecnej sytuacji na rynku AI zamieszczonej na &lt;a href=&#34;https://lnkd.in/dEc2j9wG&#34;&gt;https://lnkd.in/dEc2j9wG&lt;/a&gt; :&lt;/p&gt;
 &lt;p&gt;🚀 Ekstremalna różnica w kosztach USA wydają na budowę AI około 1 biliona dolarów rocznie (3% PKB), podczas gdy wydatki Chin to zaledwie ułamek tej kwoty – ok. 102-123 mld dolarów (0,6% PKB)*. Efekt? To samo zadanie programistyczne, które w amerykańskim Claude Opus kosztuje 2,33 USD, w chińskim modelu GLM kosztuje zaledwie 0,31 USD – to 7,5 raza taniej!.&lt;/p&gt;</description>
     </item>
     <item>
       <title>O mnie</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://www.muchowski-advisory.pl/about/</link>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://www.muchowski-advisory.pl/about/</guid>
       <description>&lt;p&gt;Nazywam się Tomasz Muchowski. Jestem licencjonowanym maklerem papierów wartościowych (wpis na listę &lt;a href=&#34;https://www.knf.gov.pl/podmioty/Podmioty_rynku_kapitalowego/Maklerzy_papierow_wartosciowych/lista_maklerow_papierow_wartosciowych?page=108&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;KNF numer 3705&lt;/a&gt;) oraz posiadaczem międzynarodowego tytułu &lt;a href=&#34;https://www.aciia.org/ciia-holders/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CIIA (Certified International Investment Analyst)&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Moje doświadczenie zawodowe obejmuje także zarządzanie strukturami organizacyjnymi na stanowiskach General Managera. Jestem minimalistą i esencjalistą, a poufność oraz bezpieczeństwo informacji traktuję jako absolutny priorytet. Dlatego ta witryna jest utrzymana w prostej formie, zapewniając pełny szacunek dla prywatności odwiedzających:&lt;/p&gt;
 &lt;ul&gt;
