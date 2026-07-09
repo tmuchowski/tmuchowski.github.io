@@ -41,7 +41,7 @@ canonifyURLs = true
       weight = 1
     [[languages.en.menu.main]]
       name = "Analyses"
-      url = "/analizy/"
+      url = "/analyses/"
       weight = 2
     [[languages.en.menu.main]]
       name = "Comments"
