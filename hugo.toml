@@ -1,18 +1,31 @@
 baseURL = 'https://www.muchowski-advisory.pl/'
-title = 'Tomasz Muchowski'
+title = 'Tomasz Muchowski Advisory'
 theme = 'PaperMod'
 relativeURLs = true
 canonifyURLs = true
+defaultContentLanguage = 'pl'
+defaultContentLanguageInSubdir = false
+env = 'production'
 
 [params]
   defaultTheme = "light"
   disableThemeToggle = true
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowCodeCopyButtons = true
+  ShowBreadCrumbs = true          # Włączona nawigacja dla struktury analiz
+  ShowPostNavLinks = true         # Ułatwia nawigowanie między analizami
+  description = "Niezależne analizy finansowe"
+  author = "Tomasz Muchowski, CIIA"
 
-# Konfiguracja języków i menu
+  [params.assets]
+    disableFingerprinting = false
+
 [languages]
   [languages.pl]
-    languageName = "Polski"
-    languageCode = "pl"
+    label = "Polski"
+    locale = "pl"
+    contentDir = "content/pl"
     weight = 1
     [[languages.pl.menu.main]]
       name = "O mnie"
@@ -32,8 +45,9 @@ canonifyURLs = true
       weight = 4
 
   [languages.en]
-    languageName = "English"
-    languageCode = "en"
+    label = "English"
+    locale = "en"
+    contentDir = "content/en"
     weight = 2
     [[languages.en.menu.main]]
       name = "About"

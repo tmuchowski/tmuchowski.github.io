@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Comments on Tomasz Muchowski Advisory</title>
+    <link>http://localhost:1313/en/comments/</link>
+    <description>Recent content in Comments on Tomasz Muchowski Advisory</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/comments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Is Chinese AI about to burst the American tech bubble? 🇨🇳🇺🇸</title>
+      <link>http://localhost:1313/en/comments/ai/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/comments/ai/</guid>
+      <description>&lt;p&gt;While Silicon Valley spends billions developing increasingly powerful models, China has found a way to offer 90% of the same quality at a fraction of the cost. How is this possible? Here are the key takeaways from the analysis of the current AI market situation published at &lt;a href=&#34;https://lnkd.in/dEc2j9wG&#34;&gt;https://lnkd.in/dEc2j9wG&lt;/a&gt; :&lt;/p&gt;
+&lt;p&gt;🚀 Extreme cost disparity The US spends around $1 trillion annually on building AI (3% of its GDP), while China&amp;rsquo;s spending is just a fraction of that – approx. $102-123 billion (0.6% of GDP). The result? The exact same coding task that costs $2.33 in America&amp;rsquo;s Claude Opus costs just $0.31 in China&amp;rsquo;s GLM model – that&amp;rsquo;s 7.5 times cheaper!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
