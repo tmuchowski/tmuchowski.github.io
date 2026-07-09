@@ -6,7 +6,7 @@ canonifyURLs = true
 
 [params]
   defaultTheme = "light"
-  disableThemeToggle = true # Opcjonalne: wyłącza przycisk zmiany trybu nocnego
+  disableThemeToggle = true
 
 # Konfiguracja języków i menu
 [languages]
@@ -45,7 +45,7 @@ canonifyURLs = true
       weight = 2
     [[languages.en.menu.main]]
       name = "Comments"
-      url = "/komentarze/"
+      url = "/comments/"
       weight = 3
     [[languages.en.menu.main]]
       name = "Contact"

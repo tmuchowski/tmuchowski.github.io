@@ -16,7 +16,7 @@ al. Solidarności 68/121
 
 W celu zachowania najwyższych standardów poufności oraz bezpieczeństwa informacji, wszelkie zapytania biznesowe proszę kierować bezpośrednio na poniższy adres e-mail:
 
-**E-mail:** kontakt [at] muchowskiadvisory.pl
+**E-mail:** kontakt [at] muchowski-advisory.pl
 *(W miejsce [at] wstaw znak @)*
 
 <br>

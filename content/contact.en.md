@@ -16,7 +16,7 @@ al. Solidarności 68/121
 
 To maintain the highest standards of confidentiality and information security, please direct all business inquiries directly to the following e-mail address:
 
-**E-mail:** kontakt [at] muchowskiadvisory.pl
+**E-mail:** kontakt [at] muchowski-advisory.pl
 *(Replace [at] with the @ symbol)*
 
 <br>
